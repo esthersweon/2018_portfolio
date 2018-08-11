@@ -1,0 +1,39 @@
+.QuestionCard {
+  font-size: 18px;
+  padding: 10px;
+  color: white;
+  border: 1px solid lightblue;
+  background-color: lightblue;
+  border-radius: 10px;
+  margin-top: 10px;
+  min-height: 50px;
+}
+
+.QuestionCard:hover {
+  border: 2px solid teal;
+  cursor: pointer;
+}
+
+.QuestionCard.flipped, .QuestionCard.revealed {
+    border: 1px solid teal;
+    background-color: teal;
+}
+
+.QuestionCard.disabled {
+    border: 1px solid lightgray;
+    background-color: lightgray;
+}
+
+.Category .QuestionCard .controls{
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 10px;
+}
+
+/*.QuestionCard button.delete {
+  flex: 1;
+}
+
+.QuestionCard div {
+  flex: 19;
+}*/
