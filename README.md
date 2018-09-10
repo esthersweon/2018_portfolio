@@ -4,12 +4,12 @@
 
 ### Supervised Learning
 Predicting Mental Health Treatment at US Companies
-- [Jupyter Notebook](https://github.com/esthersweon/2018_portfolio/blob/master/ds_supervised_learning.ipynb)
+- [Jupyter Notebook](https://github.com/esthersweon/2018_portfolio/blob/master/ds_supervised.ipynb)
 - [Presentation Slides](https://docs.google.com/presentation/d/13PlI1vHoxT7oHUgNTSoN_h2xJtW5ZGaCroghTapRs6M/edit?usp=sharing)
 
 ### Unsupervised Learning
 Categorizing Mobile Applications
-- [Jupyter Notebook](https://github.com/esthersweon/2018_portfolio/blob/master/ds_unsupervised_learning.ipynb)
+- [Jupyter Notebook](https://github.com/esthersweon/2018_portfolio/blob/master/ds_unsupervised.ipynb)
 
 ### Deep Learning
 Identifying Fruit in Images
